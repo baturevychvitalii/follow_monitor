@@ -1,0 +1,5 @@
+*.tw_session
+*.txt
+*.json*
+.ipynb_checkpoints/
+
